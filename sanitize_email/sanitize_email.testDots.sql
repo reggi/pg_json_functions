@@ -1,0 +1,1 @@
+SELECT * FROM sanitize_email('Me.Ow.Woof@gmail.com');

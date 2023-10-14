@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 28816,
+      "driver": "PostgreSQL",
+      "name": "json_schema_3",
+      "database": "json_schema_3",
+      "username": "thomasreggi",
+      "password": ""
+    }
+  ]
+}

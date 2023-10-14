@@ -1,0 +1,23 @@
+[
+  {
+    "json_prop_array_append": {
+      "data": {
+        "info": {
+          "tags": [
+            "web3",
+            "decentralization",
+            "principles",
+            "federation"
+          ]
+        },
+        "other": {
+          "notes": [
+            "one",
+            "two",
+            "three"
+          ]
+        }
+      }
+    }
+  }
+]

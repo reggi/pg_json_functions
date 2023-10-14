@@ -1,0 +1,1 @@
+SELECT * FROM json_path_to_target('$.key1[0].key2');    -- Output: {key1,0,key2}

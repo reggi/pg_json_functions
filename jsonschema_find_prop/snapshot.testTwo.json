@@ -1,0 +1,8 @@
+[
+  {
+    "path": "$.properties.age"
+  },
+  {
+    "path": "$.properties.name"
+  }
+]

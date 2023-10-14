@@ -1,0 +1,14 @@
+[
+  {
+    "path": "$.properties.age"
+  },
+  {
+    "path": "$.properties.name"
+  },
+  {
+    "path": "$.properties.nested.properties.age"
+  },
+  {
+    "path": "$.properties.nested.properties.name"
+  }
+]

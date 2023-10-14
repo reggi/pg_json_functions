@@ -1,0 +1,9 @@
+[
+  {
+    "json_array_prepend": [
+      "c",
+      "a",
+      "b"
+    ]
+  }
+]

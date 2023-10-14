@@ -1,0 +1,35 @@
+[
+  {
+    "path": "$.properties.name.properties.name",
+    "stub": {
+      "type": "string"
+    }
+  },
+  {
+    "path": "$.properties.name",
+    "stub": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  {
+    "path": "$",
+    "stub": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+]

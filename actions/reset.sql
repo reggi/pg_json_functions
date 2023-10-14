@@ -1,0 +1,16 @@
+SELECT remove_function('json_array_append');
+SELECT remove_function('json_array_prepend');
+SELECT remove_function('json_array_reorder');
+SELECT remove_function('json_array_reverse');
+SELECT remove_function('json_array_slide');
+SELECT remove_function('json_create');
+SELECT remove_function('json_path_set');
+SELECT remove_function('json_path_to_target');
+SELECT remove_function('json_prop_array_append');
+SELECT remove_function('json_prop_array_prepend');
+SELECT remove_function('json_prop_array_reorder');
+SELECT remove_function('json_prop_array_reverse');
+SELECT remove_function('json_prop_array_slide');
+SELECT remove_function('json_schema_breakdown');
+SELECT remove_function('jsonschema_find_prop');
+SELECT remove_function('sanitize_email');

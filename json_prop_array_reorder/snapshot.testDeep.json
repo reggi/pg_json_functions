@@ -1,0 +1,22 @@
+[
+  {
+    "json_prop_array_reorder": {
+      "data": {
+        "info": {
+          "tags": [
+            "decentralization",
+            "web3",
+            "principles"
+          ]
+        },
+        "other": {
+          "notes": [
+            "one",
+            "two",
+            "three"
+          ]
+        }
+      }
+    }
+  }
+]
